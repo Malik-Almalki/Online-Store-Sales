@@ -5,8 +5,8 @@
 The dashboards provide a comprehensive overview of product sales, revenue, profit, and customer loyalty, segmented by product, country, and over time. Key metrics include total quantity sold, stock levels, median sales, net revenue, and profit. The data highlights top-performing products, geographic sales and profit distributions, and trends in sales and profit margins over time.
 
 ### Dashboard images
-![Image](https://github.com/user-attachments/assets/c1bdc8bf-ad6a-44f6-a897-ea3aaf3785c8)
-![Image](https://github.com/user-attachments/assets/bbb98a1f-9120-455f-b0c8-bbec9f7bd161)
+![1 Sales Overview](https://github.com/user-attachments/assets/c79099eb-cd3f-4cb6-b09b-83da67292e6a)
+![2 Profit Overview](https://github.com/user-attachments/assets/92b04095-1622-4c50-98d2-d4d6386926be)
 
 
 ### Key Features of the Dashboard
